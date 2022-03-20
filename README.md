@@ -1,3 +1,6 @@
+- OSEP-Scratch 線上版 https://osep-scratch.github.io/app
+- OSEP-Scratch 網頁 https://sites.google.com/view/osep-scratch3/
+
 # scratch-gui
 #### Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
 
