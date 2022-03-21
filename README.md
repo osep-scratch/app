@@ -1,4 +1,5 @@
 - OSEP-Scratch 線上版 https://osep-scratch.github.io/app
+- OSEP-Scratch 測試版 https://osep-scratch.github.io/beta
 - OSEP-Scratch 網頁 https://sites.google.com/view/osep-scratch3/
 
 # scratch-gui
